@@ -1,5 +1,5 @@
 # rlehd856.github.io
-<style>
+<style type="text/css">
 .test {
   color:blue;
 }
