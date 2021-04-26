@@ -1,9 +1,9 @@
 # rlehd856.github.io
-<!-- <style type="text/css">-->
+<!-- <style type="text/css">
 .test {
   color:blue;
 }
-</style>
+</style>-->
 
 hello
 <div style="color:red;">ggg</div>
